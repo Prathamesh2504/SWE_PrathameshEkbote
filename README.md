@@ -9,3 +9,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/d011e05f-b8e0-488b-900c-f72155ee61ae" />
